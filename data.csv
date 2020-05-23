@@ -1,226 +1,286 @@
 ,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
-0,"Machine Learning Engineer, Computer Vision",$146K-$183K (Glassdoor Est.),"This role is part of the Core team within the Samsung NEXT Product organization.
+0,"Software Engineer, Machine Learning",$102K-$150K (Glassdoor Est.),"--COVID-19 Hiring Update--
 
-The Core team is building today a set of large scale products that are directly linked with Samsung world wide and have the potential of capitalizing on Samsung's massive consumer reach across mobile phones and smart TVs.
+Dataminr is still actively hiring.
 
-About NEXT Product
+As the health and safety of our candidates and our employees come first,
 
+we're excited to provide virtual experiences for interviews and new hire on-boarding.
 
-The NEXT Product organization is a hyper-growth startup within Samsung NEXT. We're a globally distributed product development team in search of builders and creators to help conceive, grow and scale new products and categories.
+This is an office-based role, but we will provide all the necessary support to work remotely until our offices reopen.
 
-Successful candidates, at all levels within the organization, will: approach all things team-first, take ownership and ""be the change you seek"", have strong written and verbal communication skills, have high EQ, enjoy fast-paced, outcome-driven environments and be inspired to learn and explore daily both inside and outside of your field of expertise.
+Type: Full Time
+Experience: 3+ years
 
-The Role
+Who we are:
 
+We are Dataminr. We are a mission-driven company committed to the power of AI, public data, and real-time information as a force for good in the world. Over the last decade, our team has established and refined the leading AI platform for real-time event and risk detection. We surface the earliest signals of unfolding events and emerging risks within an increasingly diverse and complex landscape of publicly available information, enabling more effective risk mitigation strategies, faster response, and better crisis management. Dataminr serves thousands of professionals in 70+ countries by delivering timely, relevant, and actionable alerts to public and private sector organizations around the world.
 
-As a Machine Learning Engineer, you will build Machine Learning systems fusing and analyzing multi-sensory signals to solve real-world challenges in real-time. We are looking for a candidate that has industry experience with Computer Vision (Machine Learning) and has worked with large data sets and in real-time. This position is located in our New York office.
+We've grown to over 500 talented employees across seven global offices and raised $392 million in funding in our most recent investment round. Our culture promotes cross-team interaction, work-life balance and the sharing of information and ideas because it enables us to do our best work together, make a meaningful contribution, and have fun. Join us and help the world manage risk in real time.
 
-RESPONSIBILITIES
-Work closely with our Engineering and Data teams in NYC, San Francisco and Korea to build real-time solutions for Smart Spaces by applying Computer Vision methods to this complex domain
-Build models for Human Activity Detection and Recognition, Object Detection and tracking and Scene Segmentation in real-time
-Design, develop, test, deploy, maintain and improve ML models/infrastructure and software that uses these models
-Manage individual project priorities, deadlines and deliverables
-MINIMUM QUALIFICATIONS
-MS degree in Computer Science or related quantitative field
-5+ years of experience in one or more of the following areas: machine learning (CV)
-Experience with machine learning frameworks
-Experience working in an Agile environment and within a distributed team
-PREFERRED QUALIFICATIONS
-Ph.D. degree in Computer Science or related quantitative field
-Research experience in Deep Learning
-About Samsung NEXT
+Who you are:
 
+You're an engineer who has a science background or has worked with scientists running experiments, implementing production quality state-of-the art algorithms, and exploring large data sets. You are passionate about having a positive impact on the world. You are enthusiastic about working on some of the most challenging problems in AI and are a passionate builder of solutions that directly contribute to products. You want to advance the state of the art by working closely with scientists to implement novel approaches, and have the skillset to develop engineering solutions to solve real problems in production, at scale.
 
-Samsung NEXT champions builders and founders inventing a more purposeful future. We attract, develop, and celebrate diverse talent with world-class capacity to transform ideas into realities at scale. We prioritize experiences over things and are dedicated to thoughtfully integrating the physical and digital worlds and we accelerate Samsung's vision to inspire the world.
+Responsibilities
+Work directly on all aspects of science problems with other members of the AI team: from inception, brainstorming, and reading of scientific literature, to data exploration and implementation of methods created in-house, and productization of these methods.
+Work as liaison between the AI Group and engineering teams across the company in defining the right production delivery channels and processes for state-of-the-art algorithms and models (via APIs, libraries, etc.).
+In addition to production code, create prototypes and demos, iterating quickly while making savvy choices to ensure that approaches chosen from the literature or developed in-house can scale and are implemented for optimal performance.
+Work with the team in solving specific problems at scale in one or more of the following areas: NLP, Information Retrieval, Complex Networks, Recommender Systems, Computer Vision, Machine/Deep Learning, etc..
+Work closely with a diverse, interdisciplinary team to deliver value to customers (existing and new products).
+Excel in placing a human-centered focus on the work (context, end-user impact, etc), finding solutions that work in practice and have significant impact.
+Senior candidates are expected to lead technical areas and/or people.
+Minimum qualifications
+M.S. in Computer science. Ph.D. studies in any field a plus.
+Industry experience (2 or more years) as an Engineer or Data Scientist required.
+Experience building services or APIs using object oriented languages and corresponding frameworks
+Experience in one or several of the following areas: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Knowledge Representation and Management, etc.
+Experience in Python, Java, Scala or similar languages.
+Expertise with machine learning and deep learning tools (TensorFlow, PyTorch, Scikit-learn, etc.) for experimentation and deployment.
+Experience working with scientists, reading technical research papers, and implementing state-of-the-art methods in production.
+Why you should work here:
 
-Founded in 2012, Samsung NEXT has four key functions in the global software ecosystem:
-Product - Building new software and services businesses, at scale.
-Venture - Investing in early-stage startups to help entrepreneurs build and scale their businesses.
-Partnerships - Helping startups successfully partner with the variety of businesses within Samsung.
-M&A - Acquiring startups to connect and scale with our businesses.
-At Samsung NEXT, we hold the steadfast belief that diversity and inclusion is essential to realize our mission and is a must-have for us to do our best work. We are proud to be an Equal Employment Opportunity employer and do not discriminate on the basis of race, color, ancestry, national origin, citizenship, religion, sex, sexual orientation, gender identity, age, ability, marital status, veteran status, or any other legally protected status.
+We recognize and reward hard work with:
+competitive compensation package including company equity.
+paid benefits for employees and their dependents, including medical, dental, vision, disability and life insurance.
+401(k) savings plan with company matching.
+flexible spending account for out-of-pocket medical, transit, parking and dependent care expenses.
+We want you to be your best, authentic self by supporting you with:
+a diverse, driven, and passionate team of coworkers who want you to succeed.
+opportunities to own and drive important critical projects.
+individual Learning and Development fund and professional training.
+generous leave and flexible hours.
+daily catered lunch and a fully stocked kitchen.
+And more!
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
 
-We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+#LI-BM",3.8,"Dataminr
+3.8","New York, NY","New York, NY",201 to 500 employees,2009,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+1,"Software Engineer, Machine Learning",$102K-$150K (Glassdoor Est.),"--COVID-19 Hiring Update--
 
-#LI-EO1",3.5,"Samsung NEXT
-3.5","New York, NY","Mountain View, CA",201 to 500 employees,2012,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
-1,"Machine Learning Engineer, Computer Vision",$146K-$183K (Glassdoor Est.),"This role is part of the Core team within the Samsung NEXT Product organization.
+Dataminr is still actively hiring.
 
-The Core team is building today a set of large scale products that are directly linked with Samsung world wide and have the potential of capitalizing on Samsung's massive consumer reach across mobile phones and smart TVs.
+As the health and safety of our candidates and our employees come first,
 
-About NEXT Product
+we're excited to provide virtual experiences for interviews and new hire on-boarding.
 
+This is an office-based role, but we will provide all the necessary support to work remotely until our offices reopen.
 
-The NEXT Product organization is a hyper-growth startup within Samsung NEXT. We're a globally distributed product development team in search of builders and creators to help conceive, grow and scale new products and categories.
+Type: Full Time
+Experience: 3+ years
 
-Successful candidates, at all levels within the organization, will: approach all things team-first, take ownership and ""be the change you seek"", have strong written and verbal communication skills, have high EQ, enjoy fast-paced, outcome-driven environments and be inspired to learn and explore daily both inside and outside of your field of expertise.
+Who we are:
 
-The Role
+We are Dataminr. We are a mission-driven company committed to the power of AI, public data, and real-time information as a force for good in the world. Over the last decade, our team has established and refined the leading AI platform for real-time event and risk detection. We surface the earliest signals of unfolding events and emerging risks within an increasingly diverse and complex landscape of publicly available information, enabling more effective risk mitigation strategies, faster response, and better crisis management. Dataminr serves thousands of professionals in 70+ countries by delivering timely, relevant, and actionable alerts to public and private sector organizations around the world.
 
+We've grown to over 500 talented employees across seven global offices and raised $392 million in funding in our most recent investment round. Our culture promotes cross-team interaction, work-life balance and the sharing of information and ideas because it enables us to do our best work together, make a meaningful contribution, and have fun. Join us and help the world manage risk in real time.
 
-As a Machine Learning Engineer, you will build Machine Learning systems fusing and analyzing multi-sensory signals to solve real-world challenges in real-time. We are looking for a candidate that has industry experience with Computer Vision (Machine Learning) and has worked with large data sets and in real-time. This position is located in our New York office.
+Who you are:
 
-RESPONSIBILITIES
-Work closely with our Engineering and Data teams in NYC, San Francisco and Korea to build real-time solutions for Smart Spaces by applying Computer Vision methods to this complex domain
-Build models for Human Activity Detection and Recognition, Object Detection and tracking and Scene Segmentation in real-time
-Design, develop, test, deploy, maintain and improve ML models/infrastructure and software that uses these models
-Manage individual project priorities, deadlines and deliverables
-MINIMUM QUALIFICATIONS
-MS degree in Computer Science or related quantitative field
-5+ years of experience in one or more of the following areas: machine learning (CV)
-Experience with machine learning frameworks
-Experience working in an Agile environment and within a distributed team
-PREFERRED QUALIFICATIONS
-Ph.D. degree in Computer Science or related quantitative field
-Research experience in Deep Learning
-About Samsung NEXT
+You're an engineer who has a science background or has worked with scientists running experiments, implementing production quality state-of-the art algorithms, and exploring large data sets. You are passionate about having a positive impact on the world. You are enthusiastic about working on some of the most challenging problems in AI and are a passionate builder of solutions that directly contribute to products. You want to advance the state of the art by working closely with scientists to implement novel approaches, and have the skillset to develop engineering solutions to solve real problems in production, at scale.
 
+Responsibilities
+Work directly on all aspects of science problems with other members of the AI team: from inception, brainstorming, and reading of scientific literature, to data exploration and implementation of methods created in-house, and productization of these methods.
+Work as liaison between the AI Group and engineering teams across the company in defining the right production delivery channels and processes for state-of-the-art algorithms and models (via APIs, libraries, etc.).
+In addition to production code, create prototypes and demos, iterating quickly while making savvy choices to ensure that approaches chosen from the literature or developed in-house can scale and are implemented for optimal performance.
+Work with the team in solving specific problems at scale in one or more of the following areas: NLP, Information Retrieval, Complex Networks, Recommender Systems, Computer Vision, Machine/Deep Learning, etc..
+Work closely with a diverse, interdisciplinary team to deliver value to customers (existing and new products).
+Excel in placing a human-centered focus on the work (context, end-user impact, etc), finding solutions that work in practice and have significant impact.
+Senior candidates are expected to lead technical areas and/or people.
+Minimum qualifications
+M.S. in Computer science. Ph.D. studies in any field a plus.
+Industry experience (2 or more years) as an Engineer or Data Scientist required.
+Experience building services or APIs using object oriented languages and corresponding frameworks
+Experience in one or several of the following areas: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Knowledge Representation and Management, etc.
+Experience in Python, Java, Scala or similar languages.
+Expertise with machine learning and deep learning tools (TensorFlow, PyTorch, Scikit-learn, etc.) for experimentation and deployment.
+Experience working with scientists, reading technical research papers, and implementing state-of-the-art methods in production.
+Why you should work here:
 
-Samsung NEXT champions builders and founders inventing a more purposeful future. We attract, develop, and celebrate diverse talent with world-class capacity to transform ideas into realities at scale. We prioritize experiences over things and are dedicated to thoughtfully integrating the physical and digital worlds and we accelerate Samsung's vision to inspire the world.
+We recognize and reward hard work with:
+competitive compensation package including company equity.
+paid benefits for employees and their dependents, including medical, dental, vision, disability and life insurance.
+401(k) savings plan with company matching.
+flexible spending account for out-of-pocket medical, transit, parking and dependent care expenses.
+We want you to be your best, authentic self by supporting you with:
+a diverse, driven, and passionate team of coworkers who want you to succeed.
+opportunities to own and drive important critical projects.
+individual Learning and Development fund and professional training.
+generous leave and flexible hours.
+daily catered lunch and a fully stocked kitchen.
+And more!
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
 
-Founded in 2012, Samsung NEXT has four key functions in the global software ecosystem:
-Product - Building new software and services businesses, at scale.
-Venture - Investing in early-stage startups to help entrepreneurs build and scale their businesses.
-Partnerships - Helping startups successfully partner with the variety of businesses within Samsung.
-M&A - Acquiring startups to connect and scale with our businesses.
-At Samsung NEXT, we hold the steadfast belief that diversity and inclusion is essential to realize our mission and is a must-have for us to do our best work. We are proud to be an Equal Employment Opportunity employer and do not discriminate on the basis of race, color, ancestry, national origin, citizenship, religion, sex, sexual orientation, gender identity, age, ability, marital status, veteran status, or any other legally protected status.
+#LI-BM",3.5,"Dataminr
+3.8","New York, NY","Mountain View, CA",201 to 500 employees,2012,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+2,"Machine Learning Engineer, Computer Vision",$102K-$150K (Glassdoor Est.),"--COVID-19 Hiring Update--
 
-We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+Dataminr is still actively hiring.
 
-#LI-EO1",3.8,"Samsung NEXT
-3.5","New York, NY","New York, NY",201 to 500 employees,2009,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
-2,"Software Engineer, Machine Learning",$146K-$183K (Glassdoor Est.),"This role is part of the Core team within the Samsung NEXT Product organization.
+As the health and safety of our candidates and our employees come first,
 
-The Core team is building today a set of large scale products that are directly linked with Samsung world wide and have the potential of capitalizing on Samsung's massive consumer reach across mobile phones and smart TVs.
+we're excited to provide virtual experiences for interviews and new hire on-boarding.
 
-About NEXT Product
+This is an office-based role, but we will provide all the necessary support to work remotely until our offices reopen.
 
+Type: Full Time
+Experience: 3+ years
 
-The NEXT Product organization is a hyper-growth startup within Samsung NEXT. We're a globally distributed product development team in search of builders and creators to help conceive, grow and scale new products and categories.
+Who we are:
 
-Successful candidates, at all levels within the organization, will: approach all things team-first, take ownership and ""be the change you seek"", have strong written and verbal communication skills, have high EQ, enjoy fast-paced, outcome-driven environments and be inspired to learn and explore daily both inside and outside of your field of expertise.
+We are Dataminr. We are a mission-driven company committed to the power of AI, public data, and real-time information as a force for good in the world. Over the last decade, our team has established and refined the leading AI platform for real-time event and risk detection. We surface the earliest signals of unfolding events and emerging risks within an increasingly diverse and complex landscape of publicly available information, enabling more effective risk mitigation strategies, faster response, and better crisis management. Dataminr serves thousands of professionals in 70+ countries by delivering timely, relevant, and actionable alerts to public and private sector organizations around the world.
 
-The Role
+We've grown to over 500 talented employees across seven global offices and raised $392 million in funding in our most recent investment round. Our culture promotes cross-team interaction, work-life balance and the sharing of information and ideas because it enables us to do our best work together, make a meaningful contribution, and have fun. Join us and help the world manage risk in real time.
 
+Who you are:
 
-As a Machine Learning Engineer, you will build Machine Learning systems fusing and analyzing multi-sensory signals to solve real-world challenges in real-time. We are looking for a candidate that has industry experience with Computer Vision (Machine Learning) and has worked with large data sets and in real-time. This position is located in our New York office.
+You're an engineer who has a science background or has worked with scientists running experiments, implementing production quality state-of-the art algorithms, and exploring large data sets. You are passionate about having a positive impact on the world. You are enthusiastic about working on some of the most challenging problems in AI and are a passionate builder of solutions that directly contribute to products. You want to advance the state of the art by working closely with scientists to implement novel approaches, and have the skillset to develop engineering solutions to solve real problems in production, at scale.
 
-RESPONSIBILITIES
-Work closely with our Engineering and Data teams in NYC, San Francisco and Korea to build real-time solutions for Smart Spaces by applying Computer Vision methods to this complex domain
-Build models for Human Activity Detection and Recognition, Object Detection and tracking and Scene Segmentation in real-time
-Design, develop, test, deploy, maintain and improve ML models/infrastructure and software that uses these models
-Manage individual project priorities, deadlines and deliverables
-MINIMUM QUALIFICATIONS
-MS degree in Computer Science or related quantitative field
-5+ years of experience in one or more of the following areas: machine learning (CV)
-Experience with machine learning frameworks
-Experience working in an Agile environment and within a distributed team
-PREFERRED QUALIFICATIONS
-Ph.D. degree in Computer Science or related quantitative field
-Research experience in Deep Learning
-About Samsung NEXT
+Responsibilities
+Work directly on all aspects of science problems with other members of the AI team: from inception, brainstorming, and reading of scientific literature, to data exploration and implementation of methods created in-house, and productization of these methods.
+Work as liaison between the AI Group and engineering teams across the company in defining the right production delivery channels and processes for state-of-the-art algorithms and models (via APIs, libraries, etc.).
+In addition to production code, create prototypes and demos, iterating quickly while making savvy choices to ensure that approaches chosen from the literature or developed in-house can scale and are implemented for optimal performance.
+Work with the team in solving specific problems at scale in one or more of the following areas: NLP, Information Retrieval, Complex Networks, Recommender Systems, Computer Vision, Machine/Deep Learning, etc..
+Work closely with a diverse, interdisciplinary team to deliver value to customers (existing and new products).
+Excel in placing a human-centered focus on the work (context, end-user impact, etc), finding solutions that work in practice and have significant impact.
+Senior candidates are expected to lead technical areas and/or people.
+Minimum qualifications
+M.S. in Computer science. Ph.D. studies in any field a plus.
+Industry experience (2 or more years) as an Engineer or Data Scientist required.
+Experience building services or APIs using object oriented languages and corresponding frameworks
+Experience in one or several of the following areas: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Knowledge Representation and Management, etc.
+Experience in Python, Java, Scala or similar languages.
+Expertise with machine learning and deep learning tools (TensorFlow, PyTorch, Scikit-learn, etc.) for experimentation and deployment.
+Experience working with scientists, reading technical research papers, and implementing state-of-the-art methods in production.
+Why you should work here:
 
+We recognize and reward hard work with:
+competitive compensation package including company equity.
+paid benefits for employees and their dependents, including medical, dental, vision, disability and life insurance.
+401(k) savings plan with company matching.
+flexible spending account for out-of-pocket medical, transit, parking and dependent care expenses.
+We want you to be your best, authentic self by supporting you with:
+a diverse, driven, and passionate team of coworkers who want you to succeed.
+opportunities to own and drive important critical projects.
+individual Learning and Development fund and professional training.
+generous leave and flexible hours.
+daily catered lunch and a fully stocked kitchen.
+And more!
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
 
-Samsung NEXT champions builders and founders inventing a more purposeful future. We attract, develop, and celebrate diverse talent with world-class capacity to transform ideas into realities at scale. We prioritize experiences over things and are dedicated to thoughtfully integrating the physical and digital worlds and we accelerate Samsung's vision to inspire the world.
+#LI-BM",3.7,"Samsung NEXT
+3.5","New York, NY","New York, NY",501 to 1000 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+3,Data Scientist,$102K-$150K (Glassdoor Est.),"--COVID-19 Hiring Update--
 
-Founded in 2012, Samsung NEXT has four key functions in the global software ecosystem:
-Product - Building new software and services businesses, at scale.
-Venture - Investing in early-stage startups to help entrepreneurs build and scale their businesses.
-Partnerships - Helping startups successfully partner with the variety of businesses within Samsung.
-M&A - Acquiring startups to connect and scale with our businesses.
-At Samsung NEXT, we hold the steadfast belief that diversity and inclusion is essential to realize our mission and is a must-have for us to do our best work. We are proud to be an Equal Employment Opportunity employer and do not discriminate on the basis of race, color, ancestry, national origin, citizenship, religion, sex, sexual orientation, gender identity, age, ability, marital status, veteran status, or any other legally protected status.
+Dataminr is still actively hiring.
 
-We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+As the health and safety of our candidates and our employees come first,
 
-#LI-EO1",3.7,"Dataminr
-3.8","New York, NY","New York, NY",501 to 1000 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
-3,Data Scientist,$146K-$183K (Glassdoor Est.),"This role is part of the Core team within the Samsung NEXT Product organization.
+we're excited to provide virtual experiences for interviews and new hire on-boarding.
 
-The Core team is building today a set of large scale products that are directly linked with Samsung world wide and have the potential of capitalizing on Samsung's massive consumer reach across mobile phones and smart TVs.
+This is an office-based role, but we will provide all the necessary support to work remotely until our offices reopen.
 
-About NEXT Product
+Type: Full Time
+Experience: 3+ years
 
+Who we are:
 
-The NEXT Product organization is a hyper-growth startup within Samsung NEXT. We're a globally distributed product development team in search of builders and creators to help conceive, grow and scale new products and categories.
+We are Dataminr. We are a mission-driven company committed to the power of AI, public data, and real-time information as a force for good in the world. Over the last decade, our team has established and refined the leading AI platform for real-time event and risk detection. We surface the earliest signals of unfolding events and emerging risks within an increasingly diverse and complex landscape of publicly available information, enabling more effective risk mitigation strategies, faster response, and better crisis management. Dataminr serves thousands of professionals in 70+ countries by delivering timely, relevant, and actionable alerts to public and private sector organizations around the world.
 
-Successful candidates, at all levels within the organization, will: approach all things team-first, take ownership and ""be the change you seek"", have strong written and verbal communication skills, have high EQ, enjoy fast-paced, outcome-driven environments and be inspired to learn and explore daily both inside and outside of your field of expertise.
+We've grown to over 500 talented employees across seven global offices and raised $392 million in funding in our most recent investment round. Our culture promotes cross-team interaction, work-life balance and the sharing of information and ideas because it enables us to do our best work together, make a meaningful contribution, and have fun. Join us and help the world manage risk in real time.
 
-The Role
+Who you are:
 
+You're an engineer who has a science background or has worked with scientists running experiments, implementing production quality state-of-the art algorithms, and exploring large data sets. You are passionate about having a positive impact on the world. You are enthusiastic about working on some of the most challenging problems in AI and are a passionate builder of solutions that directly contribute to products. You want to advance the state of the art by working closely with scientists to implement novel approaches, and have the skillset to develop engineering solutions to solve real problems in production, at scale.
 
-As a Machine Learning Engineer, you will build Machine Learning systems fusing and analyzing multi-sensory signals to solve real-world challenges in real-time. We are looking for a candidate that has industry experience with Computer Vision (Machine Learning) and has worked with large data sets and in real-time. This position is located in our New York office.
+Responsibilities
+Work directly on all aspects of science problems with other members of the AI team: from inception, brainstorming, and reading of scientific literature, to data exploration and implementation of methods created in-house, and productization of these methods.
+Work as liaison between the AI Group and engineering teams across the company in defining the right production delivery channels and processes for state-of-the-art algorithms and models (via APIs, libraries, etc.).
+In addition to production code, create prototypes and demos, iterating quickly while making savvy choices to ensure that approaches chosen from the literature or developed in-house can scale and are implemented for optimal performance.
+Work with the team in solving specific problems at scale in one or more of the following areas: NLP, Information Retrieval, Complex Networks, Recommender Systems, Computer Vision, Machine/Deep Learning, etc..
+Work closely with a diverse, interdisciplinary team to deliver value to customers (existing and new products).
+Excel in placing a human-centered focus on the work (context, end-user impact, etc), finding solutions that work in practice and have significant impact.
+Senior candidates are expected to lead technical areas and/or people.
+Minimum qualifications
+M.S. in Computer science. Ph.D. studies in any field a plus.
+Industry experience (2 or more years) as an Engineer or Data Scientist required.
+Experience building services or APIs using object oriented languages and corresponding frameworks
+Experience in one or several of the following areas: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Knowledge Representation and Management, etc.
+Experience in Python, Java, Scala or similar languages.
+Expertise with machine learning and deep learning tools (TensorFlow, PyTorch, Scikit-learn, etc.) for experimentation and deployment.
+Experience working with scientists, reading technical research papers, and implementing state-of-the-art methods in production.
+Why you should work here:
 
-RESPONSIBILITIES
-Work closely with our Engineering and Data teams in NYC, San Francisco and Korea to build real-time solutions for Smart Spaces by applying Computer Vision methods to this complex domain
-Build models for Human Activity Detection and Recognition, Object Detection and tracking and Scene Segmentation in real-time
-Design, develop, test, deploy, maintain and improve ML models/infrastructure and software that uses these models
-Manage individual project priorities, deadlines and deliverables
-MINIMUM QUALIFICATIONS
-MS degree in Computer Science or related quantitative field
-5+ years of experience in one or more of the following areas: machine learning (CV)
-Experience with machine learning frameworks
-Experience working in an Agile environment and within a distributed team
-PREFERRED QUALIFICATIONS
-Ph.D. degree in Computer Science or related quantitative field
-Research experience in Deep Learning
-About Samsung NEXT
+We recognize and reward hard work with:
+competitive compensation package including company equity.
+paid benefits for employees and their dependents, including medical, dental, vision, disability and life insurance.
+401(k) savings plan with company matching.
+flexible spending account for out-of-pocket medical, transit, parking and dependent care expenses.
+We want you to be your best, authentic self by supporting you with:
+a diverse, driven, and passionate team of coworkers who want you to succeed.
+opportunities to own and drive important critical projects.
+individual Learning and Development fund and professional training.
+generous leave and flexible hours.
+daily catered lunch and a fully stocked kitchen.
+And more!
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
 
-
-Samsung NEXT champions builders and founders inventing a more purposeful future. We attract, develop, and celebrate diverse talent with world-class capacity to transform ideas into realities at scale. We prioritize experiences over things and are dedicated to thoughtfully integrating the physical and digital worlds and we accelerate Samsung's vision to inspire the world.
-
-Founded in 2012, Samsung NEXT has four key functions in the global software ecosystem:
-Product - Building new software and services businesses, at scale.
-Venture - Investing in early-stage startups to help entrepreneurs build and scale their businesses.
-Partnerships - Helping startups successfully partner with the variety of businesses within Samsung.
-M&A - Acquiring startups to connect and scale with our businesses.
-At Samsung NEXT, we hold the steadfast belief that diversity and inclusion is essential to realize our mission and is a must-have for us to do our best work. We are proud to be an Equal Employment Opportunity employer and do not discriminate on the basis of race, color, ancestry, national origin, citizenship, religion, sex, sexual orientation, gender identity, age, ability, marital status, veteran status, or any other legally protected status.
-
-We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
-
-#LI-EO1",3.1,"Via Transportation
+#LI-BM",3.1,"Via Transportation
 3.7","New York, NY","New York, NY",501 to 1000 employees,2000,Company - Private,Healthcare Services & Hospitals,Healthcare,Unknown / Non-Applicable,"Enlivant, Sunrise Senior Living, Brookdale Senior Living"
-4,Data Scientist,$146K-$183K (Glassdoor Est.),"This role is part of the Core team within the Samsung NEXT Product organization.
+4,Data Scientist,$102K-$150K (Glassdoor Est.),"--COVID-19 Hiring Update--
 
-The Core team is building today a set of large scale products that are directly linked with Samsung world wide and have the potential of capitalizing on Samsung's massive consumer reach across mobile phones and smart TVs.
+Dataminr is still actively hiring.
 
-About NEXT Product
+As the health and safety of our candidates and our employees come first,
 
+we're excited to provide virtual experiences for interviews and new hire on-boarding.
 
-The NEXT Product organization is a hyper-growth startup within Samsung NEXT. We're a globally distributed product development team in search of builders and creators to help conceive, grow and scale new products and categories.
+This is an office-based role, but we will provide all the necessary support to work remotely until our offices reopen.
 
-Successful candidates, at all levels within the organization, will: approach all things team-first, take ownership and ""be the change you seek"", have strong written and verbal communication skills, have high EQ, enjoy fast-paced, outcome-driven environments and be inspired to learn and explore daily both inside and outside of your field of expertise.
+Type: Full Time
+Experience: 3+ years
 
-The Role
+Who we are:
 
+We are Dataminr. We are a mission-driven company committed to the power of AI, public data, and real-time information as a force for good in the world. Over the last decade, our team has established and refined the leading AI platform for real-time event and risk detection. We surface the earliest signals of unfolding events and emerging risks within an increasingly diverse and complex landscape of publicly available information, enabling more effective risk mitigation strategies, faster response, and better crisis management. Dataminr serves thousands of professionals in 70+ countries by delivering timely, relevant, and actionable alerts to public and private sector organizations around the world.
 
-As a Machine Learning Engineer, you will build Machine Learning systems fusing and analyzing multi-sensory signals to solve real-world challenges in real-time. We are looking for a candidate that has industry experience with Computer Vision (Machine Learning) and has worked with large data sets and in real-time. This position is located in our New York office.
+We've grown to over 500 talented employees across seven global offices and raised $392 million in funding in our most recent investment round. Our culture promotes cross-team interaction, work-life balance and the sharing of information and ideas because it enables us to do our best work together, make a meaningful contribution, and have fun. Join us and help the world manage risk in real time.
 
-RESPONSIBILITIES
-Work closely with our Engineering and Data teams in NYC, San Francisco and Korea to build real-time solutions for Smart Spaces by applying Computer Vision methods to this complex domain
-Build models for Human Activity Detection and Recognition, Object Detection and tracking and Scene Segmentation in real-time
-Design, develop, test, deploy, maintain and improve ML models/infrastructure and software that uses these models
-Manage individual project priorities, deadlines and deliverables
-MINIMUM QUALIFICATIONS
-MS degree in Computer Science or related quantitative field
-5+ years of experience in one or more of the following areas: machine learning (CV)
-Experience with machine learning frameworks
-Experience working in an Agile environment and within a distributed team
-PREFERRED QUALIFICATIONS
-Ph.D. degree in Computer Science or related quantitative field
-Research experience in Deep Learning
-About Samsung NEXT
+Who you are:
 
+You're an engineer who has a science background or has worked with scientists running experiments, implementing production quality state-of-the art algorithms, and exploring large data sets. You are passionate about having a positive impact on the world. You are enthusiastic about working on some of the most challenging problems in AI and are a passionate builder of solutions that directly contribute to products. You want to advance the state of the art by working closely with scientists to implement novel approaches, and have the skillset to develop engineering solutions to solve real problems in production, at scale.
 
-Samsung NEXT champions builders and founders inventing a more purposeful future. We attract, develop, and celebrate diverse talent with world-class capacity to transform ideas into realities at scale. We prioritize experiences over things and are dedicated to thoughtfully integrating the physical and digital worlds and we accelerate Samsung's vision to inspire the world.
+Responsibilities
+Work directly on all aspects of science problems with other members of the AI team: from inception, brainstorming, and reading of scientific literature, to data exploration and implementation of methods created in-house, and productization of these methods.
+Work as liaison between the AI Group and engineering teams across the company in defining the right production delivery channels and processes for state-of-the-art algorithms and models (via APIs, libraries, etc.).
+In addition to production code, create prototypes and demos, iterating quickly while making savvy choices to ensure that approaches chosen from the literature or developed in-house can scale and are implemented for optimal performance.
+Work with the team in solving specific problems at scale in one or more of the following areas: NLP, Information Retrieval, Complex Networks, Recommender Systems, Computer Vision, Machine/Deep Learning, etc..
+Work closely with a diverse, interdisciplinary team to deliver value to customers (existing and new products).
+Excel in placing a human-centered focus on the work (context, end-user impact, etc), finding solutions that work in practice and have significant impact.
+Senior candidates are expected to lead technical areas and/or people.
+Minimum qualifications
+M.S. in Computer science. Ph.D. studies in any field a plus.
+Industry experience (2 or more years) as an Engineer or Data Scientist required.
+Experience building services or APIs using object oriented languages and corresponding frameworks
+Experience in one or several of the following areas: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Knowledge Representation and Management, etc.
+Experience in Python, Java, Scala or similar languages.
+Expertise with machine learning and deep learning tools (TensorFlow, PyTorch, Scikit-learn, etc.) for experimentation and deployment.
+Experience working with scientists, reading technical research papers, and implementing state-of-the-art methods in production.
+Why you should work here:
 
-Founded in 2012, Samsung NEXT has four key functions in the global software ecosystem:
-Product - Building new software and services businesses, at scale.
-Venture - Investing in early-stage startups to help entrepreneurs build and scale their businesses.
-Partnerships - Helping startups successfully partner with the variety of businesses within Samsung.
-M&A - Acquiring startups to connect and scale with our businesses.
-At Samsung NEXT, we hold the steadfast belief that diversity and inclusion is essential to realize our mission and is a must-have for us to do our best work. We are proud to be an Equal Employment Opportunity employer and do not discriminate on the basis of race, color, ancestry, national origin, citizenship, religion, sex, sexual orientation, gender identity, age, ability, marital status, veteran status, or any other legally protected status.
+We recognize and reward hard work with:
+competitive compensation package including company equity.
+paid benefits for employees and their dependents, including medical, dental, vision, disability and life insurance.
+401(k) savings plan with company matching.
+flexible spending account for out-of-pocket medical, transit, parking and dependent care expenses.
+We want you to be your best, authentic self by supporting you with:
+a diverse, driven, and passionate team of coworkers who want you to succeed.
+opportunities to own and drive important critical projects.
+individual Learning and Development fund and professional training.
+generous leave and flexible hours.
+daily catered lunch and a fully stocked kitchen.
+And more!
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
 
-We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
-
-#LI-EO1",5.0,"A Place for Mom
+#LI-BM",5.0,"A Place for Mom
 3.1","New York, NY","Austin, TX",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
